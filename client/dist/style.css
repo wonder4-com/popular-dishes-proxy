@@ -1,0 +1,36 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  white-space: normal;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+#AllPhotos {
+    /* position: relative; */
+    height: 10px;
+    overflow: hidden;
+}
+#Graphs {
+    position: relative;
+    width: 613px;
+    padding-bottom: 20px;
+    border-bottom: .5px solid lightgray;
+    margin-left: 250px;
+}
+#PopularDishes {
+    position: relative;
+    margin-left: 200px;
+}
+#Reviews {
+    position: relative;
+    overflow: hidden;
+    margin-top: 230px;
+    margin-left: 250px;
+}
+
+#modal-root {
+  position: relative;
+  z-index: 999;
+}
