@@ -1,0 +1,58 @@
+
+.tag-blank {
+  color: #666;
+  fill: #666;
+  background: #fff;
+  border: 1px solid #ccc;
+  background-image: none;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0;
+  cursor: pointer;
+  font-weight: 700;
+  text-align: center;
+  border-radius: 3px;
+  margin-right: 6px;
+  outline: none;
+}
+
+.tag-filled {
+  color: #fff;
+  fill: #fff;
+  background: #0097ec;
+  border: 1px solid #0097ec;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0;
+  cursor: pointer;
+  font-weight: 700;
+  text-align: center;
+  border-radius: 3px;
+  margin-right: 6px;
+  outline: none;
+}
+
+
+.star-rating-1 {
+  fill: khaki;
+}
+
+.star-rating-2 {
+  fill: gold;
+}
+
+.star-rating-3 {
+  fill: darkorange;
+}
+
+.star-rating-4 {
+  fill: orangered;
+}
+
+.star-rating-5 {
+  fill: #d32323;
+}
+
+.star-rating-blank {
+  fill: #d8d8d8;
+}
