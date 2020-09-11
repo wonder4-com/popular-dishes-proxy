@@ -31,7 +31,7 @@
     "dateformat": "^3.0.3",
     "express": "^4.17.1",
     "faker": "^4.1.0",
-    "http-proxy": "^1.18.0",
+    "http-proxy": "^1.18.1",
     "jquery": "^3.4.1",
     "mongoose": "^5.9.6",
     "mysql": "^2.18.1",
